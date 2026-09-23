@@ -1,6 +1,6 @@
 # Resume Select — downloads oficiais
 
-Este repositório público contém somente instaladores e metadados de atualização assinados do Resume Select.
+Este repositório público contém instaladores, metadados de atualização assinados e imagens de divulgação do Resume Select.
 
 - Baixe versões apenas pela seção **Releases**.
 - O aplicativo verifica criptograficamente a assinatura antes de instalar uma atualização.
